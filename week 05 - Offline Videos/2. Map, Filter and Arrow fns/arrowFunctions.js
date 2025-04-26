@@ -28,7 +28,7 @@ function greetPerson(name) {
     console.log(`Hello ${name}!`);
 }
 
-greetPerson('Bharat'); // Hello Bharat!
+greetPerson('rahul'); // Hello rahul!
 */
 
 /*
