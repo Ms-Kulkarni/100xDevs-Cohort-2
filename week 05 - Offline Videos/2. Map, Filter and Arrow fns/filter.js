@@ -62,11 +62,11 @@ console.log(newArr); // [2, 4, 6, 8, 10]
  *     - Create an array of names
  *     - Filter out the names starting with letter 'H' using filter function and arrow function and store it in a new array
  *     - Print the new array
- * Input: ['Harkirat', 'Bharat', 'Harry', 'Hermione', 'Ron', 'Hagrid']
+ * Input: ['Harkirat', 'Rahul', 'Harry', 'Hermione', 'Ron', 'Hagrid']
  * Output: ['Harkirat', 'Harry', 'Hermione', 'Hagrid']
  */
 // create an array of names
-let names = ['Harkirat', 'Bharat', 'Harry', 'Hermione', 'Ron', 'Hagrid'];
+let names = ['Harkirat', 'Rahul', 'Harry', 'Hermione', 'Ron', 'Hagrid'];
 
 // Filter out the names starting with letter 'H' using filter function and arrow function and store it in a new array
 let newNames = names.filter((name) => {
