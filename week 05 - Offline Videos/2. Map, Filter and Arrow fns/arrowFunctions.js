@@ -37,13 +37,13 @@ const greetPerson = (name) => {
     console.log(`Hello ${name}!`);
 };
 
-greetPerson('Bharat'); // Hello Bharat!
+greetPerson('Rahul'); // Hello Rahul!
 */
 
 // Arrow functions to greet a person - Shorter version
 const greetPerson = (name) => console.log(`Hello ${name}!`);
 
-greetPerson('Bharat'); // Hello Bharat!
+greetPerson('Rahul'); // Rahul!
 
 
 /*
