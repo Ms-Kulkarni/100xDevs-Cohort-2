@@ -1,6 +1,6 @@
-# 🚀 100xDevs Cohort 3.0 - Web Dev + DevOps 🚀
+# 🚀 100xDevs Cohort 2.0 - Web Dev (MERN Stack) 🚀
 
-Welcome to my notes repo of **100xDevs Cohort 3.0** by **Harkirat Singh**!
+Welcome to my notes repo of **100xDevs Cohort 2.0** by **Harkirat Singh**!
 This repository is your ultimate guide to mastering:
 
 - 📚 **MERN Stack**: Learn MongoDB, Express.js, React.js, and Node.js with detailed code examples
@@ -13,5 +13,5 @@ Ready to dive in? Here’s how to get started:
 Run the following command in your terminal to clone the repository and start building locally:
 
 ```bash
-https://github.com/irohandev/WebDev-DevOps-Cohort-3.0.git
+https://github.com/Ms-Kulkarni/100xDevs-Cohort-2.git
 
